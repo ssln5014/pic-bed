@@ -1,2 +1,1 @@
-## <big><center><p style="font-family:YouYuan;font-size:16px;color:red"></p>(●'◡'●)
-</center></big>
+# <big><center>（<font color=red>●</font>'◡'<font color=red>●</font>）
