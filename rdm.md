@@ -1,1 +1,1 @@
-# <big><center>（<font color=red>●</font>'◡'<font color=red>●</font>）
+## <center>（<font color=red>●</font>'◡'<font color=red>●</font>）
